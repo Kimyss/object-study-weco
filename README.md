@@ -19,5 +19,5 @@ protected : 같은 패키지 + 같은 클래스 + 상속관계(extends) 클래�
 
 오버라이드 - 부모(슈퍼클래스)의 메서드 수정, 추가 덮어쓰기
 
-인터페이스 - 일종의 설계도, 규칙을 정한다. implemets로 구현가능 (pulbic abstract) void ~~ : pulbic abstract는 생략 가능!
+인터페이스 - 일종의 설계도, 규칙을 정한다. implemets로 구현가능 ( pulbic abstract ) void ~~ : pulbic abstract는 생략 가능!
 
